@@ -15,6 +15,8 @@ Gosto de programar em Pyhton e Matlab, tenho conhecimento básico de C++, C#, ns
 
 My name is Victor Silva. I have a Bachelor's Degree in Science and Technology and Telecommunications Engineering from federal university of Rio Grande do Norte - Brazil. 
 
+### Social Networks
+
 You can contact me at [email](vctrslv23@gmail.com) or [linkedin](https://www.linkedin.com/in/victordcsilva/). And My [Latter Curriculum](http://lattes.cnpq.br/8592432181617890). Please feel free to contact me in english.
 
 ### Skills 
