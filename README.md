@@ -14,7 +14,7 @@ Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https:
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Victor-Cplusplus" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+  <img align="center" alt="Victor-Cplusplus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" alt="Victor-Zendesk" height="30" width="40" src="https://www.svgrepo.com/show/354598/zendesk-icon.svg">
   <img align="center" alt="Victor-Matlab" height="30" width="40" src="https://www.svgrepo.com/show/373830/matlab.svg">
 </div>
@@ -35,7 +35,7 @@ You can contact me at [email](vctrslv23@gmail.com) or [linkedin](https://www.lin
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Victor-Cplusplus" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+  <img align="center" alt="Victor-Cplusplus" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
   <img align="center" alt="Victor-Zendesk" height="30" width="40" src="https://www.svgrepo.com/show/354598/zendesk-icon.svg">
   <img align="center" alt="Victor-Matlab" height="30" width="40" src="https://www.svgrepo.com/show/373830/matlab.svg">
 </div>
