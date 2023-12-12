@@ -19,9 +19,6 @@ Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https:
   <img align="center" alt="Victor-Matlab" height="30" width="40" src="https://www.svgrepo.com/show/373830/matlab.svg">
 </div>
 
-
-Programo em JavaScript, AngularJS, HTML5 e CSS3, tenho conhecimento básico de C++,C#, ns3, Python, Matlab, Scilab e Zendesk.
-
 ### Hi there
 
 My name is Victor Silva. I have a Degree in Science and Technology and Telecommunications Engineering from federal university of Rio Grande do Norte - Brazil. 
@@ -42,9 +39,6 @@ You can contact me at [email](vctrslv23@gmail.com) or [linkedin](https://www.lin
   <img align="center" alt="Victor-Zendesk" height="30" width="40" src="https://www.svgrepo.com/show/354598/zendesk-icon.svg">
   <img align="center" alt="Victor-Matlab" height="30" width="40" src="https://www.svgrepo.com/show/373830/matlab.svg">
 </div>
-
-CSS3, HTML5, JavaScript, AngularJS, Python, Matlab, C++, C#, ns3 and Zendesk.
-
 
 
 <!--
