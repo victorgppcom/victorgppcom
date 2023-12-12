@@ -1,5 +1,5 @@
 
-### Olá 👋
+### Olá
 
 Meu nome é Victor Silva. Sou formado em Bacharelado em Ciência e Técnologia e Engenharia de Telecomunicações pela UFRN.
 
@@ -11,7 +11,7 @@ Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https:
 
 Programo em JavaScript, AngularJS, HTML5 e CSS3, tenho conhecimento básico de C++,C#, ns3, Python, Matlab, Scilab e Zendesk.
 
-### Hi there 👋
+### Hi there
 
 My name is Victor Silva. I have a Degree in Science and Technology and Telecommunications Engineering from federal university of Rio Grande do Norte - Brazil. 
 
