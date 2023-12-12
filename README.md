@@ -5,7 +5,7 @@ Meu nome é Victor Silva. Sou formado em Bacharelado em Ciência e Técnologia e
 
 ### Contatos e redes
 
-Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https://www.linkedin.com/in/victordcsilva/). Meu Currículo Latter está [aqui](http://lattes.cnpq.br/8592432181617890)
+Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https://www.linkedin.com/in/victordcsilva/).
 
 ### Habilidades
 
@@ -17,7 +17,7 @@ My name is Victor Silva. I have a Degree in Science and Technology and Telecommu
 
 ### Social Networks
 
-You can contact me at [email](vctrslv23@gmail.com) or [linkedin](https://www.linkedin.com/in/victordcsilva/). And My [Latter Curriculum](http://lattes.cnpq.br/8592432181617890). Please feel free to contact me in english.
+You can contact me at [email](vctrslv23@gmail.com) or [linkedin](https://www.linkedin.com/in/victordcsilva/). Please feel free to contact me in english.
 
 ### Skills 
 
