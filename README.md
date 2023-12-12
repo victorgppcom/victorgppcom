@@ -9,7 +9,7 @@ Você pode me contatar por [e-mail](vctrslv23@gmail.com) ou no [linkedin](https:
 
 ### Habilidades
 
-Gosto de programar em Pyhton e Matlab, tenho conhecimento básico de C++, C#, ns3 e Zendesk. Estou aprendendo com CSS3, HTML5, JavaScript e AngularJS
+Programo em JavaScript, AngularJS, HTML5 e CSS3, tenho conhecimento básico de C++,C#, ns3, Python, Matlab, Scilab e Zendesk.
 
 ### Hi there 👋
 
@@ -21,7 +21,7 @@ You can contact me at [email](vctrslv23@gmail.com) or [linkedin](https://www.lin
 
 ### Skills 
 
-Python, Matlab, C++, C#, ns3, Zendesk. I am learning CSS3, HTML5, JavaScript and AngularJS
+CSS3, HTML5, JavaScript, AngularJS, Python, Matlab, C++, C#, ns3 and Zendesk.
 
 
 
